@@ -1,0 +1,14 @@
+{
+    "name": "christophe/composer.php",
+    "description": "Quête Composer - Autoload",
+    "authors": [
+        {
+            "name": "ChristopheKleitz",
+            "email": "ckleitz67@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4" : {"App\\" : "src"}
+    }
+}
